@@ -119,3 +119,8 @@ Graduate Research Assistant — SCIT Laboratory
 ---
 
 *"Advancing construction safety through Computer Vision and Artificial Intelligence."*
+
+## Visual Represenation
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1bbcc530-e127-451a-a246-cecf84f7c35b" />
+
+
