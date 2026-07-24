@@ -113,7 +113,7 @@ Graduate Research Assistant — SCIT Laboratory
 
 - LinkedIn :[ https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/shamshad-hussain-a1a609356)
 - GitHub : https://github.com/Shamshad-hussain
-- Google Scholar : https://scholar.google.com/Shamshad Hussain
+- Google Scholar : https://scholar.google.com/ShamshadHussain
 - Email : Shamshadhussain.ce@gmail.com
 
 ---
