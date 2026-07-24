@@ -48,14 +48,15 @@ My long-term goal is to become a **Computer Vision and AI Researcher**, contribu
 - Scikit-learn
 - NumPy
 - Pandas
+- Marplotlib
 
 ### BIM & Engineering
 
 - Autodesk Revit
-- IfcOpenShell
-- IFC
 - AutoCAD
 - Primavera P6
+- Twinmotion
+- Unreal Unity Engine
 
 ### Development Tools
 
@@ -63,6 +64,7 @@ My long-term goal is to become a **Computer Vision and AI Researcher**, contribu
 - GitHub
 - Visual Studio Code
 - Jupyter Notebook
+- Google Colab
 
 ---
 
@@ -85,7 +87,6 @@ My long-term goal is to become a **Computer Vision and AI Researcher**, contribu
 - Foundation Models
 - Graph Neural Networks
 - 3D Computer Vision
-- Agentic AI
 - Advanced Deep Learning for Computer Vision
 
 ---
@@ -108,18 +109,12 @@ Graduate Research Assistant — SCIT Laboratory
 
 ---
 
-### **B.Sc. Civil Engineering**
-
-University of Engineering and Technology (Pakistan)
-
----
-
 # Connect With Me
 
-- LinkedIn : https://www.linkedin.com/in/YOUR-LINKEDIN
-- GitHub : https://github.com/YOUR-GITHUB-USERNAME
-- Google Scholar : https://scholar.google.com/
-- Email : your.email@gmail.com
+- LinkedIn :[ https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/shamshad-hussain-a1a609356)
+- GitHub : https://github.com/Shamshad-hussain
+- Google Scholar : https://scholar.google.com/Shamshad Hussain
+- Email : Shamshadhussain.ce@gmail.com
 
 ---
 
